@@ -48,6 +48,9 @@ Dieser Hypervisor wird direkt auf der physischen Hardware des Host-Systems insta
 Typ-1-Hypervisoren bieten in der Regel eine bessere Leistung und Skalierbarkeit als Typ-2-
 Hypervisoren, da sie keine zusätzliche Software-Ebene (das Host-Betriebssystem) durchlaufen
 müssen.
+![Typ1 Hypervisor](/images/Hypervisor1.png)
+
+
 - Beispiele für Typ-1-Hypervisoren sind VMware vSphere/ESXi, Microsoft Hyper-V (in einigen
 Konfigurationen), Xen und KVM (Kernel-based Virtual Machine).
 #### 2. Typ-2-Hypervisor (Hosted Hypervisor):
