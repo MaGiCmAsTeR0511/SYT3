@@ -48,11 +48,11 @@ Dieser Hypervisor wird direkt auf der physischen Hardware des Host-Systems insta
 Typ-1-Hypervisoren bieten in der Regel eine bessere Leistung und Skalierbarkeit als Typ-2-
 Hypervisoren, da sie keine zusätzliche Software-Ebene (das Host-Betriebssystem) durchlaufen
 müssen.
-![Typ1 Hypervisor](/images/Hypervisor1.png)
-
-
 - Beispiele für Typ-1-Hypervisoren sind VMware vSphere/ESXi, Microsoft Hyper-V (in einigen
 Konfigurationen), Xen und KVM (Kernel-based Virtual Machine).
+
+![Typ1 Hypervisor](./images/Hypervisor1.png)
+
 #### 2. Typ-2-Hypervisor (Hosted Hypervisor):
 Dieser Hypervisor wird auf einem bereits vorhandenen Host-Betriebssystem installiert. - Er ist
 einfacher einzurichten und bietet eine höhere Benutzerfreundlichkeit, da er auf einem normalen
@@ -68,6 +68,8 @@ dem Einsatzzweck ab. In Unternehmensumgebungen, in denen Leistung und Sicherheit
 Bedeutung sind, werden Typ-1-Hypervisoren häufig bevorzugt. Typ-2-Hypervisoren sind jedoch eine
 gute Wahl für Desktop-Virtualisierung, Entwicklungsumgebungen oder Benutzer, die einfachere
 Virtualisierungslösungen benötigen.
+
+![Typ1 Hypervisor](./images/Hypervisor2.png)
 
 ##### Beispiel für Typ-2-Hypervisoren:
 1. Oracle VirtualBox: VirtualBox ist ein Open-Source-Typ-2-Hypervisor, der von Oracle entwickelt wird. Er
