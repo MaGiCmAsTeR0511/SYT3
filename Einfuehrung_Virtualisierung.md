@@ -8,7 +8,11 @@ von IT-Infrastrukturen erheblich verbessert und spielt eine entscheidende Rolle 
 Cloud Computing und vielen anderen Bereichen der IT.
 
 Im Wesentlichen geht es bei der Virtualisierung darum, die Trennung zwischen der physischen Hardware und
-der darauf ausgeführten Software herzustellen. Dies geschieht durch die Erstellung virtueller Maschinen (VMs)
+der darauf ausgeführten Software herzustellen.
+
+![Virutelle Maschine](./images/Virtuelle_Maschine.png)
+
+Dies geschieht durch die Erstellung virtueller Maschinen (VMs)
 oder Container, die wie eigenständige Computer innerhalb des physischen Hosts agieren. Hier sind einige
 Schlüsselkonzepte und Vorteile der Virtualisierung:
 
